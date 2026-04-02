@@ -21,6 +21,7 @@
 
 ![](https://github.com/MaftAndre/Dataleum/blob/main/Top%2010%20Salesteam%20by%20Revenue.png)
 
-[Dashboard]()
+**[Dashboard](https://github.com/MaftAndre/Dataleum/blob/main/Sales%20Data_Executive%20Reporting.xlsx)**
+
 
 
