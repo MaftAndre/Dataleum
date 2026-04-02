@@ -15,3 +15,8 @@
 
 4. Top 5 Prouduct by Revenue
 
+![](https://github.com/MaftAndre/Dataleum/blob/main/Top%205%20Product%20by%20Revenue.png)
+
+5. Top 10 Salesteam by Revenue
+
+![]()
