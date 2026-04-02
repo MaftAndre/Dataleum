@@ -5,6 +5,7 @@
 
 ![](https://github.com/MaftAndre/Dataleum/blob/main/Revenue%20Trend%20Analysis.png)
 
+
 2. Revenue Contribution by Product catergory
 
 ![](https://github.com/MaftAndre/Dataleum/blob/main/Revenue%20Contribution%20by%20Product%20catergory.png)
