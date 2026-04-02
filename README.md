@@ -19,4 +19,6 @@
 
 5. Top 10 Salesteam by Revenue
 
-![]()
+![](https://github.com/MaftAndre/Dataleum/blob/main/Top%2010%20Salesteam%20by%20Revenue.png)
+
+
